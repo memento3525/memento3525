@@ -1,19 +1,13 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
-
-
-## Hi there 👋
-
-<!--
-**memento3525/memento3525** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&text=Hi%20there!&animation=fadeIn&fontColor=ffffff&fontSize=60" />
+    </div>
+    <div align= "center">
+    <div align= "center"> <a href=> <img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white&link="> </a>
+         <a href=mailto:> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:"> </a>
+          </div>  <br> 
+    <div align= "center">  </div> 
+    </div>
+    <div align= "center"> 
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=memento3525&layout=compact&bg_color=180,00000000,&title_color=000000&text_color=000000"/> </div> 
+    </div>
+    
