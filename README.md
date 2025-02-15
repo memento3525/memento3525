@@ -9,7 +9,7 @@
 
 - 티스토리에서 기술블로그를 운영하고 있습니다. [티스토리 블로그](https://mentum.tistory.com/).
 - 1인 개발로 [트윈아르카나](https://www.youtube.com/watch?v=xsZPRPS2LL8) / 2인 개발로 [더 모멘트](https://www.youtube.com/watch?v=d1m1scTaZs8) 를 출시했었습니다.
-- 스팀 게임을 즐겨합니다. 게임 보유 수 830+ [스팀 프로필](https://steamcommunity.com/id/memento3525/).
+- 스팀 게임을 즐겨합니다. 게임 보유 수 870+ [스팀 프로필](https://steamcommunity.com/id/memento3525/).
 - 유니티 C#을 주로 사용하며 언리얼은 학습중입니다.
 
 </div>
